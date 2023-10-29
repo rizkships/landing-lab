@@ -1,1 +1,2 @@
-console.log('omar')
+import "./styles.css"
+
